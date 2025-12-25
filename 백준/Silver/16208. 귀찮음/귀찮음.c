@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int Compare(const int* a, const int* b)
+int Compare(const void* a, const void* b)
 {
-	return *a - *b;
+	return *(int*)a - *(int*)b;
 }
 
 int main(void)
@@ -11,7 +11,8 @@ int main(void)
 	int i;
 	int n;
 	int a[500001];
-	int total = 0, result = 0;
+	int total = 0;
+	long long result = 0;
 	
 	scanf("%d", &n);
 	
@@ -30,7 +31,7 @@ int main(void)
 		total -= a[i];
 	}
 	
-	printf("%d", result);
+	printf("%lld", result);
 	
 	return 0;
 }
