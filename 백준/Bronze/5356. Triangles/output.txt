@@ -1,0 +1,14 @@
+A
+BB
+CCC
+DDDD
+EEEEE
+
+Z
+AA
+BBB
+
+C
+DD
+EEE
+FFFF
