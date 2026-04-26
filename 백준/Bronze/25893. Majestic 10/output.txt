@@ -1,0 +1,11 @@
+5 0 8
+zilch
+
+30 10 50
+triple-double
+
+20 5 20
+double-double
+
+5 100 6
+double

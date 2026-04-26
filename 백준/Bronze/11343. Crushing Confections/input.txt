@@ -1,0 +1,22 @@
+3
+
+4 7
+R R Y B O G P
+P G R Y O G B
+B G R Y O B Y
+P R G B Y B R
+
+5 5
+P G O B R
+G O B R P
+O B R P G
+B R P G O
+R P G O B
+
+6 4
+R O B Y
+Y O B R
+O B R Y
+G B G B
+R Y Y Y
+B G O R

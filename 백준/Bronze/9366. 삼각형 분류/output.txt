@@ -1,0 +1,2 @@
+Case #1: isosceles
+Case #2: invalid!

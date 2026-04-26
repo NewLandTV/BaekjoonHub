@@ -1,0 +1,4 @@
+The height of the triangle is 9.90 units
+The height of the triangle is 19.10 units
+The height of the triangle is 2.00 units
+The height of the triangle is 131.48 units

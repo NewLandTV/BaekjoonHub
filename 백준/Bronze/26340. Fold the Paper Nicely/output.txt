@@ -1,0 +1,8 @@
+Data set: 60 51 4
+15 12
+
+Data set: 3 2 50
+0 0
+
+Data set: 3 2 1
+2 1

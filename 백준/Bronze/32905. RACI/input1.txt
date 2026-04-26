@@ -1,0 +1,4 @@
+3 5
+C C A - I
+A R - C I
+A R I C -

@@ -1,0 +1,8 @@
+7 3
+ammo
+save
+shoot
+ammo
+load
+shoot
+load

@@ -1,0 +1,2 @@
+Case 1: Area 94.5, Perimeter 43.5
+Case 2: Area 40.85, Perimeter 26.7
